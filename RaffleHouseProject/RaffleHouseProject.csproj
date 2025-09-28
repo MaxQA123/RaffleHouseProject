@@ -23,10 +23,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="ObjectsData\CmsAdminPortalObjects\" />
-    <Folder Include="ObjectsData\UsersPortalObjects\" />
     <Folder Include="PageObjects\CmsAdminPortalPages\" />
-    <Folder Include="PageObjects\UsersPortalPages\" />
   </ItemGroup>
 
 </Project>
