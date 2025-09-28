@@ -22,4 +22,10 @@
     <PackageReference Include="WebDriverManager" Version="2.17.6" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="ObjectsData\CmsAdminPortalPages\" />
+    <Folder Include="ObjectsData\UsersPortalPages\" />
+    <Folder Include="PageObjects\" />
+  </ItemGroup>
+
 </Project>
